@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cover](https://www.revolvermag.com/sites/default/files/media/images/article/pantera_jgp_0119_etv1_1.jpg)
 
 <!--
 **dimacodota/dimacodota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
