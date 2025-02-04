@@ -1,4 +1,4 @@
-![Cover]([https://www.revolvermag.com/sites/default/files/media/images/article/pantera_jgp_0119_etv1_1.jpg](https://media.revolvermag.com/smaecrmuhw/styles/article-banner/2021/09/28/panteramonstersofrock1991.jpg.webp?t=2774d9ea))
+![Cover](https://media.revolvermag.com/smaecrmuhw/styles/article-banner/2021/09/28/panteramonstersofrock1991.jpg.webp?t=2774d9ea)
 
 <!--
 **dimacodota/dimacodota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
