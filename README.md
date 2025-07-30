@@ -1,16 +1,19 @@
-![Cover](https://media.revolvermag.com/smaecrmuhw/styles/article-banner/2021/09/28/panteramonstersofrock1991.jpg.webp?t=2774d9ea)
+# 👋 Hi, I'm Dima Abramovich
 
-<!--
-**dimacodota/dimacodota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building intelligent systems that empower developers and scale across complex architectures.  
+With deep experience in AI agents, code generation, and developer tooling, I’ve led and contributed to products used by millions — from cloud-native SaaS platforms to fully isolated on-prem solutions.
 
-Here are some ideas to get you started:
+I focus on bridging deep technical complexity with simple, effective user experiences.  
+My work spans B2B and B2C environments, with a strong emphasis on delivering practical, high-impact solutions — often built with technologies like **Rust** and **Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Areas I enjoy working on:
+- AI agents & autonomous dev workflows
+- Code generation & developer productivity
+- Scalable systems (on-prem & cloud)
+- OSS tools for engineers
+
+### 📫 Let's connect:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dima-abramovich-7946252a/)
+- 🧠 Always open to collaboration, ideas, or just a good technical chat.
